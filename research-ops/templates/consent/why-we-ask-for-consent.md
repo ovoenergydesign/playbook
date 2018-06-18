@@ -33,16 +33,11 @@ This might mean that a record of consent is recorded verbally, digitally confirm
 4. Remind them that their participation is voluntarily
 5. If they’re happy to proceed ask them to indicate their level of consent
 
-We have some templates:
-Information and consent form template - for depth interviews and usability testing
-Example of this information and consent form used in the ‘boiler breakdown’ research
-About the research email template - to be sent a few days before the research 
-
 ## Useful links
 
 The above information has been adapted and informed by:
-* GDS Service Manual on getting consent
-* Improving consent by Projects by IF
-* Respecting participants by Simply Secure
-* Market Research Society (MRS) Code of Conduct 
-* Making GDPR easier to understand
+* [GDS Service Manual on getting consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research)
+* [Improving consent by Projects by IF](https://projectsbyif.com/blog/improving-consent-for-research)
+* [Respecting participants by Simply Secure](https://simplysecure.org/blog/respecting-participants)
+* [Market Research Society (MRS) Code of Conduct](https://www.mrs.org.uk/pdf/mrs%20code%20of%20conduct%202014.pdf) 
+* [Making GDPR easier to understand](https://digitalblog.coop.co.uk/2017/11/27/making-the-general-data-protection-regulation-easier-to-understand/)
