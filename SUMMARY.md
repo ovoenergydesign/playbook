@@ -1,10 +1,3 @@
-# Table of contents
-
-* [james1](README.md)
-* [Design](design.md)
-* [Practices](practices.md)
-* [Research](research.md)
-
 # Summary
 
 * [Design](design/README.md)
