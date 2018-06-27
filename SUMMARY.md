@@ -1,6 +1,6 @@
 # Table of contents
 
-* [jamesA](README.md)
+* [jamesC](README.md)
 * [Design](design/README.md)
   * [Test1](design/test1.md)
   * [Test2](design/test2.md)
