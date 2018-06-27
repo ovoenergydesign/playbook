@@ -1,4 +1,0 @@
-# Design
-
-Design readme
-
