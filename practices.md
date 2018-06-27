@@ -1,4 +1,0 @@
-# Practices
-
-Practices readme
-
