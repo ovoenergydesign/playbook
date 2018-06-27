@@ -2,6 +2,6 @@
 
 * [james1](README.md)
 * [README](design.md)
-* [README](practices.md)
+* [Practices](practices.md)
 * [Research](research.md)
 
